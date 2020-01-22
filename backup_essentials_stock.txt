@@ -1,0 +1,13 @@
+mps,5GHC 2.00
+Kalypo,5GHC 10.00
+Hup Seng ,5GHC 6.00
+Juicee,78GHC 1.00
+Shoe Polish ,5GHC 5.00
+Bread ,7GHC 3.00
+Yogurt,8GHC 1.00
+Sugar ,4GHC 1.00
+Snapples ,8GHC 10.00
+Charger ,2GHC 10.00
+Orange ,4GHC 0.50
+asdf,12GHC 12.00
+asdf,12GHC 12.00
